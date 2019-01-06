@@ -3,4 +3,7 @@
     <version>1</version>
     <handofftimestamp>2015-07-25 19:00:18</handofftimestamp>
   </component>
+  <component name="whatsNew">
+    <shownVersion>3.2.1</shownVersion>
+  </component>
 </application>
